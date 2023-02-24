@@ -1,5 +1,11 @@
  //Group members
- 1.SIK/B/01-03038/2021 Steven Odhiambo
+ /*
+1.SIK/B/01-03038/2021.   Steven Odhiambo
+2. Sik/b/01-01757/2021.  Tony Owino
+3. Sik/b/01-04200/2021.  Benard Mukaya
+4. Sik/b/01-03565/2021.  Kennedy mulinge
+5. Sik/b/01-04420/2031. Mary Wairimu
+*/
  
  
  
